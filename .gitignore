@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Claude Code
+.claude/
+
+# 샘플/작업 데이터 (대용량 SHP 파일)
+sample/
+_prepared/
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.qmd
+
+# 보고서 출력물
+*.docx
+
+# 환경변수
+.env
+*.env

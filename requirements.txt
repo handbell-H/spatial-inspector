@@ -1,0 +1,7 @@
+anthropic
+geopandas
+shapely
+pandas
+pyproj
+python-docx
+openpyxl
